@@ -20,24 +20,24 @@ Java - versão 1.8 ou acima
 
 Uma série de exemplos passo-a-passo que informam o que você deve executar para ter um ambiente de desenvolvimento em execução.
 
-1) Instalar Java:
+1- Instalar Java:
 
 ```
 https://www.java.com/pt-BR/
 ```
 
-Baixar o executável e instalar na sua máquina. 
+  Baixar o executável e instalar na sua máquina. 
 
-2) Ter alguma IDE para execução do Projeto
+2- Ter alguma IDE para execução do Projeto
 
-Instalar Eclipse(optei por eclipse, porém pode ser outra IDE):
+  Instalar Eclipse(optei por eclipse, porém pode ser outra IDE):
 
 ```
 https://www.eclipse.org/downloads/
 ```
-Instale em sua máquina e crie um workspace e está pronto seu ambiente.
+  Instale em sua máquina e crie um workspace e está pronto seu ambiente.
 
-Agora só baixar o projeto e importar para a IDE.
+  Agora só baixar o projeto e importar para a IDE.
 
 ## 📦 Desenvolvimento
 
@@ -56,8 +56,6 @@ O projeto ainda está em fase de desenvolvimento e aprimoramento.
 1.0
 
 ## ✒️ Autores
-
-Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
 
 * **Desenvolvedor** - *Trabalho Inicial* - [Desenvolvedor](https://github.com/eduardo-carvalho-estudante)
 * **Eduardo** - *Documentação* - [Eduardo](https://github.com/eduardo-carvalho-estudante)
