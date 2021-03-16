@@ -1,4 +1,4 @@
-# Clínica Veterinária - Arca de Nóe
+# Clínica Veterinária - Arca de Nóe - Spring Boot
 
 Esse projeto é um sistema web de um gerenciamento de uma clínica veterinária bem básico , comm apenas um crud simples.
 
