@@ -45,10 +45,11 @@ O projeto ainda está em fase de desenvolvimento e aprimoramento.
 
 ## 🛠️ Construído com
 
-* [Spring](https://spring.io/) - O framework usado
-* [Maven](https://maven.apache.org/) - Gerente de Dependência
-* [H2](https://www.h2database.com/html/main.html) - Banco de dados em memória
-* [Hibernate](https://www.h2database.com/html/main.html) - Framework para o Mapeamento-Objeto-Relacional
+* [Spring](https://spring.io/) - O framework usado.
+* [Maven](https://maven.apache.org/) - Gerente de Dependência.
+* [H2](https://www.h2database.com/html/main.html) - Banco de dados em memória.
+* [Hibernate](https://www.h2database.com/html/main.html) - Framework para o Mapeamento-Objeto-Relacional.
+* [Bootstrap](https://getbootstrap.com/) - Framework para estilização das páginas.
 
 
 ## 📌 Versão
