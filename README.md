@@ -1,3 +1,5 @@
 
 <h1 align="center">Nome do Projeto</h1>
-Projeto Web MVC com Java e Spring Boot
+
+## Descrição do Projeto
+<p align="center">Projeto realizado no treinamento em Java da Qintess</p>
