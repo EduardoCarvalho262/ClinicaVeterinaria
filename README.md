@@ -67,5 +67,4 @@ Este projeto está sob a licença - veja o arquivo [LICENSE.md](https://github.c
 
 ## 🎁 Expressões de gratidão
 
-* Conte a outras pessoas sobre este projeto 📢
 * Obrigado a Qintess pela oportunidade de participar desse treinamento em desenvolvimento Java.
