@@ -13,7 +13,7 @@ Consulte **Implantação** para saber como implantar o projeto.
 De que coisas você precisa para instalar o software e como instalá-lo?
 
 ```
-Java - versão 1.8 ou acima
+Java - versão 8 ou acima
 ```
 
 ### 🔧 Instalação
