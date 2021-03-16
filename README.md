@@ -37,7 +37,7 @@ https://www.eclipse.org/downloads/
 ```
   Instale em sua máquina e crie um workspace e está pronto seu ambiente.
 
-  Agora só baixar o projeto e importar para a IDE.
+  Agora só fazer o download e importar para a IDE.
 
 ## 📦 Desenvolvimento
 
